@@ -1,0 +1,28 @@
+.header {
+    text-align: center;
+}
+
+.logo {
+    height: 50px;
+    margin-top: 20px;
+}
+
+.nav-menu {
+    background-color: #333;
+    margin-top: 20px;
+    text-align: left;
+}
+
+.nav-menu a {
+    color: #fff;
+    font-size: 16px;
+    padding: 10px 20px;
+    display: inline-block;
+    text-decoration: none;
+    transition: .3s;
+}
+
+.nav-menu a:hover {
+    background-color: aliceblue;
+    color: black;
+}

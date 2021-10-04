@@ -1,0 +1,6 @@
+.cart-box {
+    border: 2px solid #ddd;
+    padding: 11px;
+    position: fixed;
+    width: 350px;
+}
